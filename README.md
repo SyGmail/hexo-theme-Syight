@@ -17,3 +17,9 @@ Syight主题，一个取名于`Sy_Knight`的主题，灵感来自于`Hollow-Knig
 ## 首页效果
 
 ![image-20250213194352738](https://ccccooh.oss-cn-hangzhou.aliyuncs.com/img/202502131943844.png)
+
+## 文章页面效果
+
+![image-20250213220554440](https://ccccooh.oss-cn-hangzhou.aliyuncs.com/img/202502132205602.png)
+
+![image-20250213220632982](https://ccccooh.oss-cn-hangzhou.aliyuncs.com/img/202502132206091.png)

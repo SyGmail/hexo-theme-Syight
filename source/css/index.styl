@@ -1,9 +1,10 @@
-body
-  background-color: #2973B2
+@import 'colors.styl'
 .article-list
   // 变量
+  background-color: second-color
   right-width = 30%
-  margin-top: 10vh 
+  margin-top: 8vh 
+  padding-top: 5vh
   width: 100%
   display: flex
   justify-content: space-around
@@ -15,12 +16,12 @@ body
     li
       &:hover
         outline: 7px solid black
-      li-back-color = #F2EFE7
-      padding 2vw
+      li-back-color = main-color
       background-color: li-back-color
       margin-bottom: 5vh
       border-radius: 10px
       a
+        padding 2vw
         text-decoration: none
         display: flex
         flex-direction: column

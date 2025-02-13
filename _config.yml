@@ -45,7 +45,7 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight: 
-  line_number: false
+  line_number: true
   auto_detect: false
   tab_replace: 'javascript'
   wrap: true
