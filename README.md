@@ -6,4 +6,4 @@ Syight主题，一个取名于`Sy_Knight`的主题，灵感来自于`Hollow-Knig
 
 ## 导航栏效果
 
-![image-20250213142431985](../../AppData/Roaming/Typora/typora-user-images/image-20250213142431985.png)
+![image-20250213142431985](https://ccccooh.oss-cn-hangzhou.aliyuncs.com/img/202502131533272.png)
