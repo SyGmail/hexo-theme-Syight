@@ -1,0 +1,41 @@
+.header-container
+  nav-opacity = 0.7
+  nav-height = 8vh
+  display: flex
+  justify-content: space-around
+  align-items: center
+  height: nav-height
+  width: 100%
+  background: linear-gradient(to right, rgb(39, 55, 77, nav-opacity), rgb(221, 230, 237, nav-opacity))
+  .nav-left 
+    a
+      color = #212223
+      &:link
+        color: color
+      &:visited
+        color: color
+      &:hover
+        color: color
+      &:active
+        color: color
+  .nav-right
+    list-style: none
+    display: flex
+    height: 100%
+    width: 30%
+    justify-content: space-evenly
+    align-items: center
+    li
+      display: inline-block
+      color: white
+    a
+      font-size: 1.5em
+      text-decoration: none
+      &:link
+        color: #27374D
+      &:visited
+        color: #27374D
+      &:hover
+        color: #526D82
+      &:active
+        color: #27374D
